@@ -1,0 +1,17 @@
+/* Estilos para el cuerpo del documento */
+body {
+    background-color: #F0F3FF;
+}
+
+/* Estilos para el footer */
+footer {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+/* Estilos para los botones del footer */
+footer .btn {
+    width: 100%;
+    padding: 10px 15px;
+}
+
+/* Otros estilos personalizados si los necesitas */
